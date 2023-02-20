@@ -1,0 +1,9 @@
+h1{
+    margin: 20px;
+    font-size: 1.7em;
+}
+
+h2 span {
+    color:purple;
+    font-size: 1.5em;
+}
